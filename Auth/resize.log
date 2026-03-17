@@ -1,0 +1,54 @@
+
+disks           = 
+disk            = /dev/sda
+disk_size       = 16106127360
+parts           = 1
+part1           = /dev/sda1
+part2           = /dev/sda2
+swap            = 
+swap_size       = 0
+part1_size      = 5367660544
+new_part_size   = 16106127360
+new_part_mb     = 15360M
+
+Tue Sep  9 13:25:20 UTC 2025
+### resize
+Checking that no-one is using this disk right now ... OK
+
+Disk /dev/sda: 15 GiB, 16106127360 bytes, 31457280 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0xe5806e68
+
+Old situation:
+
+Device     Boot Start      End  Sectors Size Id Type
+/dev/sda1  *     2048 10485759 10483712   5G 83 Linux
+
+/dev/sda1: 
+New situation:
+
+Device     Boot Start      End  Sectors Size Id Type
+/dev/sda1  *     2048 31457279 31455232  15G 83 Linux
+
+The partition table has been altered.
+Calling ioctl() to re-read partition table.
+Syncing disks.
+Pass 1: Checking inodes, blocks, and sizes
+Pass 2: Checking directory structure
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Pass 5: Checking group summary information
+/dev/sda1: 85756/327680 files (0.1% non-contiguous), 506601/1310464 blocks
+Resizing the filesystem on /dev/sda1 to 3931904 (4k) blocks.
+The filesystem on /dev/sda1 is now 3931904 (4k) blocks long.
+
+Pass 1: Checking inodes, blocks, and sizes
+Pass 2: Checking directory structure
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Pass 5: Checking group summary information
+/dev/sda1: 85756/983040 files (0.1% non-contiguous), 549003/3931904 blocks
+Tue Sep  9 13:25:22 UTC 2025

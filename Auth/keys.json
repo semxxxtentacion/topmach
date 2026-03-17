@@ -1,0 +1,206 @@
+{
+    "9594efab-0ac8-4314-a441-4294a8cefc11": {
+        "device_id": "48a07138-1eb9-3f45-b268-2a8cc475d167",
+        "expiry_date": "2025-09-16T10:36:11Z"
+    },
+    "9bd47057-2044-414c-9320-b715e3e5ef21": {
+        "device_id": "3dc3c370-de9b-3c55-931a-2c4eeb81edc6",
+        "expiry_date": "2025-09-16T10:50:25Z"
+    },
+    "add39333-2181-4f8d-b66e-5c3cfbbb3a1d": {
+        "device_id": "48a07138-1eb9-3f45-b268-2a8cc475d167",
+        "expiry_date": "2025-09-16T11:00:27Z"
+    },
+    "507d305c-04f1-4267-a61a-4c12b7f74003": {
+        "device_id": "",
+        "expiry_date": "2025-09-16T11:30:29Z"
+    },
+    "a8b9ccb7-2e83-49c4-a625-aee45061662e": {
+        "device_id": "a10c61a4-835b-382a-ba9f-184a0a6b96a2",
+        "expiry_date": "2025-10-16T11:13:42Z"
+    },
+    "13d45aaf-9f6b-4cbf-b492-06b7d0c69415": {
+        "device_id": "03ed79c7-d49d-37ce-a08a-d509c707a00b",
+        "expiry_date": "2025-10-16T11:23:04Z"
+    },
+    "d99071c7-9d8e-467e-aae7-6f3b8e3bdede": {
+        "device_id": "48a07138-1eb9-3f45-b268-2a8cc475d167",
+        "expiry_date": "2107-11-06T12:05:04Z"
+    },
+    "502b6884-aed1-4074-aa2b-154ec6705c11": {
+        "device_id": "608d5908-4b58-3022-8efc-5b128d212a8b",
+        "expiry_date": "1970-01-01T00:00:00Z"
+    },
+    "82eedd2a-e3d8-42e0-9346-3f3e3b685a86": {
+        "device_id": "30e98eae-0a23-3a6e-87da-cc32f05139b2",
+        "expiry_date": "1970-01-01T00:00:00Z"
+    },
+    "d2aa4dfb-598d-4646-8316-fd2abbf7f529": {
+        "device_id": "ffa51f90-ad72-39dc-bf9f-5781c14a5169",
+        "expiry_date": "1970-01-01T00:00:00Z"
+    },
+    "cb3e79d4-77e2-4846-b529-8c1794dbc900": {
+        "device_id": "9c6b5396-a263-3500-b6fe-eedccc3c9a84",
+        "expiry_date": "2033-12-04T16:41:54Z"
+    },
+    "4ed8b915-cc31-4c2f-8f60-b4bd155f64d4": {
+        "device_id": "9aced65f-5de2-3274-a30a-f0fc4f64abe1",
+        "expiry_date": "2033-12-04T16:41:59Z"
+    },
+    "eac8119b-8562-4db5-b460-500617d83e91": {
+        "device_id": "f6088ab8-a97a-3fe8-be3a-c31cdca46668",
+        "expiry_date": "2033-12-04T16:42:01Z"
+    },
+    "9fe7f2d5-8d0a-40e1-b13b-6815d61bd042": {
+        "device_id": "6fe18e27-7340-35a2-98a3-3b2c60f7ab5c",
+        "expiry_date": "2033-12-04T16:42:03Z"
+    },
+    "997d1a01-34b7-41d7-9eab-099a940640e0": {
+        "device_id": "3005efe6-9722-3cf8-a6b9-f8bbc716fd06",
+        "expiry_date": "2033-12-04T16:42:06Z"
+    },
+    "a6cfecf7-42fd-45e8-be44-45feef2e7165": {
+        "device_id": "a0c6eede-0cbe-35ae-bd19-519d2fdf9a40",
+        "expiry_date": "2033-12-04T16:42:08Z"
+    },
+    "1741de43-3d7d-4301-99fc-1590e4d084e0": {
+        "device_id": "ba568d7d-3c0a-31bd-be77-c7be805eb512",
+        "expiry_date": "2033-12-04T16:42:11Z"
+    },
+    "af5872e3-5095-4be8-837d-c504e5d2209e": {
+        "device_id": "9fe23626-57ac-3602-88e3-30241d6dd920",
+        "expiry_date": "2033-12-04T16:42:13Z"
+    },
+    "8286e78e-bf19-4d02-b807-d94551c2125c": {
+        "device_id": "",
+        "expiry_date": "2033-12-04T16:42:15Z"
+    },
+    "6474084c-1c68-4900-933a-6fda4b4b8a2a": {
+        "device_id": "",
+        "expiry_date": "2033-12-04T16:42:17Z"
+    },
+    "f2cc3f48-dc7e-41d7-9342-3a96f2c80b72": {
+        "device_id": "b282d019-b4ca-315f-be34-6536a22f54e8",
+        "expiry_date": "1970-01-01T00:00:00Z"
+    },
+    "030d6f10-0925-4370-8187-b2e2a94e7ad9": {
+        "device_id": "b282d019-b4ca-315f-be34-6536a22f54e8",
+        "expiry_date": "2025-10-23T22:26:37Z"
+    },
+    "db3d760f-6844-4fd4-ad43-0c7c0573d7c7": {
+        "device_id": "48a07138-1eb9-3f45-b268-2a8cc475d167",
+        "expiry_date": "2847-02-18T19:54:42Z"
+    },
+    "8a174ff1-8499-4522-8017-fbad553021e7": {
+        "device_id": "ffa51f90-ad72-39dc-bf9f-5781c14a5169",
+        "expiry_date": "2025-10-16T18:28:57Z"
+    },
+    "67af6184-9b79-4ba8-abfb-f1c455d6f343": {
+        "device_id": "87c4b435-6311-328d-a98a-a31faec280a9",
+        "expiry_date": "2025-10-11T13:22:38Z"
+    },
+    "8fd25562-11f9-47d2-9388-0b0f06dde937": {
+        "device_id": "87c4b435-6311-328d-a98a-a31faec280a9",
+        "expiry_date": "2025-10-16T01:59:57Z"
+    },
+    "2f61b7c1-bb3d-4222-8c2c-7bf9cfd279e0": {
+        "device_id": "ffa51f90-ad72-39dc-bf9f-5781c14a5169",
+        "expiry_date": "2025-10-28T13:14:50Z"
+    },
+    "e38be66f-940b-417b-a75d-d40d1f94ab3d": {
+        "device_id": "b282d019-b4ca-315f-be34-6536a22f54e8",
+        "expiry_date": "2025-11-23T11:53:25Z"
+    },
+    "28e46542-21fc-4ca2-bbbc-3dcea61aa87e": {
+        "device_id": "353044bf-d613-32fa-a5b4-dfb8fdcc6d54",
+        "expiry_date": "2025-11-29T17:47:53Z"
+    },
+    "24475c3f-e5a7-4255-a43d-8b45b3f1e6db": {
+        "device_id": "",
+        "expiry_date": "2025-12-21T12:40:17Z"
+    },
+    "bb6c98ab-2627-4edd-821b-35615b4a7533": {
+        "device_id": "",
+        "expiry_date": "2025-12-21T12:40:19Z"
+    },
+    "b50fb8a7-10ea-44de-8742-465bca751261": {
+        "device_id": "",
+        "expiry_date": "2025-12-21T12:40:21Z"
+    },
+    "52a8f9f9-8794-44b1-a33f-2bec559bfb3c": {
+        "device_id": "",
+        "expiry_date": "2025-12-21T12:40:24Z"
+    },
+    "224c3203-57f8-4790-b46b-495801e785e3": {
+        "device_id": "",
+        "expiry_date": "2025-12-21T12:40:27Z"
+    },
+    "e150beb8-332e-4bc0-9c1a-54e5b4b9cec7": {
+        "device_id": "ca768881-e8df-328f-87b5-c2a6e263cc57",
+        "expiry_date": "2034-02-09T18:02:11Z"
+    },
+    "f1952f10-70d8-4433-935e-3c63d75313f9": {
+        "device_id": "aed4ccaa-c0ce-3c97-820b-7634f13f8b32",
+        "expiry_date": "2034-02-09T18:02:16Z"
+    },
+    "40e09487-661c-48b8-8c76-a271bfeea304": {
+        "device_id": "bdac6b14-ff9a-3cd7-b70c-ea1aa9d0db75",
+        "expiry_date": "2034-02-10T12:14:25Z"
+    },
+    "8c7b1b5b-2183-4652-8466-54dcfb23fdba": {
+        "device_id": "8e4d53fe-5e0b-3035-a178-032835d2f64e",
+        "expiry_date": "2034-02-17T21:07:51Z"
+    },
+    "95cd84d2-5e5a-40ac-9c70-d8c492c6b549": {
+        "device_id": "07becbe7-3de2-3c04-816f-94a56e58d7bd",
+        "expiry_date": "2034-02-17T21:07:53Z"
+    },
+    "1574cdf4-5053-42d9-981d-3e9b80e7f21f": {
+        "device_id": "7e467ef2-f752-3b60-b855-44eb1a8aca4a",
+        "expiry_date": "2034-02-17T21:07:55Z"
+    },
+    "8310631c-06e3-497f-babb-a8c3a85daadc": {
+        "device_id": "ef2be5eb-abba-3ae3-adf2-3db593e1d739",
+        "expiry_date": "2025-12-31T21:08:08Z"
+    },
+    "ede2b97a-be1f-477f-9b37-be1018e39b43": {
+        "device_id": "",
+        "expiry_date": "2034-02-24T16:02:52Z"
+    },
+    "4eff82a4-71d9-4006-b3e9-47c7c91e44d5": {
+        "device_id": "",
+        "expiry_date": "2034-02-24T16:02:54Z"
+    },
+    "0fcc780a-287d-4fa2-9623-24bf94797248": {
+        "device_id": "",
+        "expiry_date": "2026-01-15T17:39:36Z"
+    },
+    "2e5f12a6-391f-4119-b8cf-438a377784b7": {
+        "device_id": "48a07138-1eb9-3f45-b268-2a8cc475d167",
+        "expiry_date": "2026-01-16T12:32:47Z"
+    },
+    "47acf785-90fe-4a6f-8ede-ddba64959e6d": {
+        "device_id": "b282d019-b4ca-315f-be34-6536a22f54e8",
+        "expiry_date": "2026-01-16T12:33:45Z"
+    },
+    "59b9bd59-0f45-4ec0-b3e4-20621ab9cd03": {
+        "device_id": "353044bf-d613-32fa-a5b4-dfb8fdcc6d54",
+        "expiry_date": "2026-05-23T09:41:18Z"
+    },
+    "9c1a2044-2516-4721-baf1-93bb8979ef49": {
+        "device_id": "",
+        "expiry_date": "2026-01-25T09:32:01Z"
+    },
+    "15bf9ed1-4824-4be8-a384-32c8be4905d3": {
+        "device_id": "",
+        "expiry_date": "2026-02-07T20:43:32Z"
+    },
+    "0a07f060-2043-4c9d-89b9-8333530ee0fe": {
+        "device_id": "b282d019-b4ca-315f-be34-6536a22f54e8",
+        "expiry_date": "2026-02-24T14:18:49Z"
+    },
+    "fbd87288-c7e8-4cb5-9bcf-ff7214427bf9": {
+        "device_id": "48a07138-1eb9-3f45-b268-2a8cc475d167",
+        "expiry_date": "2026-02-24T14:46:05Z"
+    }
+}

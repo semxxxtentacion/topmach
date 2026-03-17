@@ -1,0 +1,63 @@
+
+disks           = 
+disk            = /dev/sda
+disk_size       = 32212254720
+parts           = 1
+part1           = /dev/sda1
+part2           = /dev/sda2
+swap            = 
+swap_size       = 0
+part1_size      = 16105078784
+new_part_size   = 32212254720
+new_part_mb     = 30720M
+
+Tue Feb 24 14:32:40 UTC 2026
+### resize
+Checking that no-one is using this disk right now ... OK
+
+Disk /dev/sda: 30 GiB, 32212254720 bytes, 62914560 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x0480a709
+
+Old situation:
+
+Device     Boot Start      End  Sectors Size Id Type
+/dev/sda1  *     2048 31457279 31455232  15G 83 Linux
+
+/dev/sda1: 
+New situation:
+
+Device     Boot Start      End  Sectors Size Id Type
+/dev/sda1  *     2048 62914559 62912512  30G 83 Linux
+
+The partition table has been altered.
+Calling ioctl() to re-read partition table.
+Syncing disks.
+/dev/sda1: recovering journal
+Pass 1: Checking inodes, blocks, and sizes
+Pass 2: Checking directory structure
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Pass 5: Checking group summary information
+Free blocks count wrong (2238556, counted=2238477).
+Fix? yes
+
+Free inodes count wrong (888704, counted=888690).
+Fix? yes
+
+
+/dev/sda1: ***** FILE SYSTEM WAS MODIFIED *****
+/dev/sda1: 94350/983040 files (0.2% non-contiguous), 1693427/3931904 blocks
+Resizing the filesystem on /dev/sda1 to 7864064 (4k) blocks.
+The filesystem on /dev/sda1 is now 7864064 (4k) blocks long.
+
+Pass 1: Checking inodes, blocks, and sizes
+Pass 2: Checking directory structure
+Pass 3: Checking directory connectivity
+Pass 4: Checking reference counts
+Pass 5: Checking group summary information
+/dev/sda1: 94350/1966080 files (0.2% non-contiguous), 1755748/7864064 blocks
+Tue Feb 24 14:32:42 UTC 2026
